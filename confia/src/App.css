@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Montserrat:wght@300;400;600&family=Playfair+Display:wght@400;600&display=swap');
+*{
+    font-family: "Manrope";
+}
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  color: #F29E58;
+}
+.swiper-button-next,
+.swiper-button-prev {
+  background-color:rgba(255,255,255,.85);
+  aspect-ratio: 1/1;
+  border-radius: 1rem;
+  padding: 2rem;
+}
