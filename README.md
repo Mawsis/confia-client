@@ -22,7 +22,7 @@ Before you start, make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone git clone https://github.com/your-username/react-hotel-ebooking.git
+   git clone git clone https://github.com/Mawsis/confia-client.git
    ```
 
 2. Navigate to the project directory:
